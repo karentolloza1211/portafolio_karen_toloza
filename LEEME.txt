@@ -1,0 +1,11 @@
+PORTAFOLIO DE KAREN Sugey TOLOZA ORTIZ
+
+Para verlo en Visual Studio Code:
+1. Descomprime el ZIP.
+2. Abre la carpeta portafolio-karen-toloza en Visual Studio Code.
+3. Haz clic derecho sobre index.html y elige "Open with Live Server" (Go Live).
+
+No necesitas instalar Node.js ni ejecutar npm install.
+Los archivos index.html, styles.css, data.js y app.js deben permanecer juntos.
+Los enlaces de GitHub, LinkedIn, Google Drive y las fuentes requieren conexión a Internet.
+El formulario abre tu aplicación de correo; no envía mensajes por sí solo.
